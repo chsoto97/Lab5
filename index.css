@@ -1,0 +1,30 @@
+*{
+	box-sizing: border-box;
+}
+
+#result{
+	display: flex;
+	width: 100%;
+	flex-wrap: wrap;
+}
+
+.results {
+	width: 50%;
+}
+
+img{
+	width: 100%;
+}
+
+form{
+	margin: 20px;
+}
+
+.buttons{
+	display: flex;
+	justify-content: center;
+}
+
+button{
+	display: none;
+}
